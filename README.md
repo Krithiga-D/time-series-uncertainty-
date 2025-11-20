@@ -1,4 +1,4 @@
-# Advanced Time Series Forecasting with Probabilistic LSTM
+# Advanced Time Series Forecasting with Neural Networks and Uncertainty Quantification
 
 This repo contains a Gold-level project implementing probabilistic time series forecasting:
 - Synthetic dataset generator: `data_gen.py`
